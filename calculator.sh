@@ -10,3 +10,5 @@ y=a-b
 
 z=a/b
 
+# Multiplication
+R=a*b
